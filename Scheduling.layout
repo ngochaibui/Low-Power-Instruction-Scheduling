@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BasicBlockPartition.c" open="1" top="0" tabpos="1">
+		<Cursor position="3548" topLine="0" />
+	</File>
+	<File name="BasicBlockPartition.h" open="1" top="0" tabpos="3">
+		<Cursor position="31" topLine="0" />
+	</File>
+	<File name="DFG.c" open="1" top="0" tabpos="8">
+		<Cursor position="11929" topLine="392" />
+	</File>
+	<File name="DFG.h" open="1" top="0" tabpos="9">
+		<Cursor position="263" topLine="0" />
+	</File>
+	<File name="Genetic.c" open="1" top="0" tabpos="13">
+		<Cursor position="8346" topLine="0" />
+	</File>
+	<File name="Genetic.h" open="1" top="0" tabpos="14">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="List.c" open="1" top="0" tabpos="5">
+		<Cursor position="1330" topLine="31" />
+	</File>
+	<File name="List.h" open="1" top="0" tabpos="4">
+		<Cursor position="57" topLine="0" />
+	</File>
+	<File name="Program.h" open="1" top="0" tabpos="2">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="Scheduling.c" open="1" top="0" tabpos="7">
+		<Cursor position="11194" topLine="507" />
+	</File>
+	<File name="Scheduling.h" open="1" top="0" tabpos="6">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="TSP.c" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="229" />
+	</File>
+	<File name="TSP.h" open="0" top="0" tabpos="12">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="divide.c" open="1" top="0" tabpos="17">
+		<Cursor position="31" topLine="0" />
+	</File>
+	<File name="divide.h" open="1" top="0" tabpos="18">
+		<Cursor position="77" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="11">
+		<Cursor position="889" topLine="42" />
+	</File>
+	<File name="pisa.c" open="1" top="0" tabpos="10">
+		<Cursor position="448" topLine="17" />
+	</File>
+	<File name="pisa.h" open="1" top="0" tabpos="12">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="reduceMemAccess.c" open="1" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="reduceMemAccess.h" open="1" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
